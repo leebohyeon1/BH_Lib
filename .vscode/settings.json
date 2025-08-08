@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "bhasd.sln"
+    "dotnet.defaultSolution": "BH_Lib.sln"
 }
